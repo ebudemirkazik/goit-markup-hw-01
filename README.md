@@ -1,3 +1,6 @@
+#website
+https://ebudemirkazik.github.io/goit-markup-hw-01/
+
 # goit-markup-hw-01
 
 This repository contains the first assignment of my software development course. The task involves creating the basic structure of an HTML document.
