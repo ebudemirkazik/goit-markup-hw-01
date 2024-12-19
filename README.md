@@ -20,6 +20,3 @@ The project includes:
 
 Additional styling and interactivity will be added in future assignments as I progress in the course.
 
----
-
-Feel free to explore and provide feedback!
